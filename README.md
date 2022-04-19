@@ -1,2 +1,2 @@
 # BLZ
- Prova de pàgina web
+ Prova de pàgina web (clon de cumpi.ga)
